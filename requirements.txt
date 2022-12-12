@@ -1,0 +1,13 @@
+aiohttp==3.7.3
+asyncpraw==7.3.1
+asyncprawcore==2.2.1
+async-timeout==3.0.1
+asyncio==3.4.3
+attrs==20.3.0
+beautifulsoup4==4.9.3
+bs4==0.0.1
+DateTime==4.3
+requests==2.25.1
+pymongo==3.12.1 #motor support pymongo >= 3.12 and < 4
+motor==2.5.0
+nextcord==2.0.0a6
